@@ -2,8 +2,7 @@
 
 I’m Vija, an aspiring QA engineer based in Latvia.
 
-I design test cases, break things on purpose, and make sure applications actually work the way users would expect. I enjoy both the structured side (test plans, bug reports) and the technical side (API testing, automation).
-
+I design test cases, break things on purpose, and make sure applications actually work the way users would expect.
 - I’m currently working on a Cypress project to expand my E2E testing skills!
 - I’m currently deepening my understanding of REST API design and Newman.
 
