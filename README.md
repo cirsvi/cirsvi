@@ -6,20 +6,20 @@ I enjoy investigating why something doesn't work, reproducing and documenting is
 
 ## 🛠️ My toolkit
 
-Testing & Automation
+### Testing & Automation:
 - Playwright
 - Cypress
 - Postman
 - TestRail
 - Jira/Xray
 
-Programming
+### Programming:
 - TypeScript 
 - JavaScript
 - Python
 - Java
 
-Tools
+### Tools:
 - GitHub Actions
 - Newman
 - Docker
