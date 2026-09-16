@@ -1,17 +1,32 @@
 ## Hi there!
 
-I’m Vija, an aspiring QA engineer based in Latvia.
+I'm a Computer Science graduate based in Latvia, interested in technical problem-solving, software testing, and test automation.
 
-I design test cases, break things on purpose, and make sure applications actually work the way users would expect.
-- :wrench: I’m currently working on a Cypress project to expand my E2E testing skills!
-- :bookmark_tabs: I’m currently deepening my understanding of REST API design and Newman.
+I enjoy investigating why something doesn't work, reproducing and documenting issues, and finding ways to make testing and development processes more reliable through automation.
 
-My current toolkit includes:
+🛠️ My toolkit
 
-<div align="center">
+Testing & Automation
+- Playwright
+- Cypress
+- Postman
+- TestRail
+- Jira/Xray
 
-[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)](https://playwright.dev/) [![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)](https://www.cypress.io/) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](https://www.postman.com/)
+Programming
+- TypeScript 
+- JavaScript
+- Python
+- Java
 
-</div>
+Tools
+- GitHub Actions
+- Newman
+- Docker
 
-Check out my best projects below!
+## 📌 Featured projects
+- SauceDemo Manual Testing Suite: 62 test cases and 18 documented defects
+- SauceDemo Playwright Automation: 62 automated tests with Playwright/TypeScript and GitHub Actions CI
+- RestfulBooker API Testing: 26 API tests, 67 assertions, and 16 documented defects
+
+Check out my pinned projects below!
