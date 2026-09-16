@@ -4,7 +4,7 @@ I'm a Computer Science graduate based in Latvia, interested in technical problem
 
 I enjoy investigating why something doesn't work, reproducing and documenting issues, and finding ways to make testing and development processes more reliable through automation.
 
-🛠️ My toolkit
+## 🛠️ My toolkit
 
 Testing & Automation
 - Playwright
