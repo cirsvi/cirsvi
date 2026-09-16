@@ -7,22 +7,13 @@ I enjoy investigating why something doesn't work, reproducing and documenting is
 ## 🛠️ My toolkit
 
 ### Testing & Automation:
-- Playwright
-- Cypress
-- Postman
-- TestRail
-- Jira/Xray
+Playwright · Cypress · Postman · TestRail · Jira/Xray
 
 ### Programming:
-- TypeScript 
-- JavaScript
-- Python
-- Java
+TypeScript · JavaScript · Python · Java · SQL
 
 ### Tools:
-- GitHub Actions
-- Newman
-- Docker
+GitHub Actions · Newman · Docker
 
 ## 📌 Featured projects
 - SauceDemo Manual Testing Suite: 62 test cases and 18 documented defects
